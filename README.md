@@ -82,33 +82,33 @@ Open http://localhost:3000⁠� in your browser.
 
 ## 📌 Projects
 The portfolio showcases projects based on:
-Python
-Data Analysis
-Machine Learning
-Artificial Intelligence
-Web Development
+- Python
+- Data Analysis
+- Machine Learning
+- Artificial Intelligence
+- Web Development
 
 ## Some featured projects include:
-Student Performance Analysis
-House Price Prediction
-Matrix Operations Tool
-Era – Voice Activated Personal Assistant
-Sentiment Analysis Web App
-Gemini AI Assistant
-Speech-to-Image Generation
-AI Resume Analyzer
+- Student Performance Analysis
+- House Price Prediction
+- Matrix Operations Tool
+- Era – Voice Activated Personal Assistant
+- Sentiment Analysis Web App
+- Gemini AI Assistant
+- Speech-to-Image Generation
+- AI Resume Analyzer
 
 ---
 
 ## 👩‍💻 About Me
 I am a B.Tech Computer Science and Engineering student (2024–2028) with an interest in Artificial Intelligence, Machine Learning, and Web Development.
 I enjoy learning new technologies and building practical projects to strengthen my technical skills.
-🔗 Connect With Me
-GitHub:
+- 🔗 Connect With Me
+- GitHub:
 https://github.com/vanshika-ai-ml⁠�
-LinkedIn:
+- LinkedIn:
 https://www.linkedin.com/in/vanshika-32aa6b3b9⁠�
-📄 License
+- 📄 License
 This project is created for personal portfolio and learning purposes.
 ⭐ Thank you for visiting my portfolio reposito
 
